@@ -5,3 +5,4 @@ int cr = 1, c, csz = 0, bsze = 1;
 string nm = {}, pwd = {}, pwdu = {}, bsz = {}, fn = {}, az = {}, pwdaz = {}, nye = {};
 int ezegyvizprogintegervaltozo = 0;
 int ezegykrisztianfelevaltozo = 100;
+string commit_test = "Ez egy commit teszt lesz";
